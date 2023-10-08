@@ -85,5 +85,17 @@
     <string>NDEF</string>
 </array>
 
+<key>com.apple.developer.nfc.readersession.felica.systemcodes</key>
+<array>
+    <string>SystemCode1</string>
+    
+<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>
+<array>
+    <string>Identifier1</string>
+</array>
+
+</array>
+
+
 </dict>
 </plist>
